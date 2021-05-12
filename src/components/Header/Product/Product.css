@@ -1,0 +1,21 @@
+.single-product{
+    display: flex;
+    border-bottom: 1px solid lightGray;
+    margin:20px;
+    padding:50px;
+    
+}
+.product-name{
+    margin-left: 70px;
+    color: goldenrod;
+    font-weight: 400;
+}
+.cart-btn{
+    background-color:goldenrod;
+    width: 120px;
+    height: 28px;
+    font-weight: 550;
+    border: 2px solid grey;
+    border-radius: 3px;
+    cursor: pointer;
+}
